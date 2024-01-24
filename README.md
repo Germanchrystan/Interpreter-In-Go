@@ -1,2 +1,2 @@
 # Interpreter in GO
-## Mate programming language
+## Mate programming language
